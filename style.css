@@ -6,12 +6,14 @@ body{
 }
 .exp-header{
   background-color: blue;
+  font-weight: bold;
   text-align: center;
   border-top: 1px solid #dddd;
   border-bottom: 1px solid #dddd;
 }
 .edu-header{
-    background-color: blue;
+  background-color: blue;
+  font-weight: bold;
   text-align: center;
   border-top: 1px solid #dddd;
   border-bottom: 1px solid #dddd
